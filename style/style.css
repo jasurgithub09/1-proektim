@@ -1,0 +1,132 @@
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+.box1{
+    display: flex;
+}
+.box1-box{
+    width: 800px;
+    height: 100px;
+    background-color: red;
+
+}
+.box1-box1{
+    width: 800px;
+    height: 100px;
+    background-color: rgb(98, 0, 255);
+
+}
+.box34 {
+    display: flex;
+}
+.box3 {
+    width: 1500px;
+    height: 100px;
+    background-color: rgb(0, 255, 51);
+}
+.box4 {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+.box567 {
+    display: flex;
+}
+.box5 {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+.box6 {
+    width: 1400px;
+    height: 100px;
+    background-color: green;
+}.box7 {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(0, 0, 255);
+}
+.box89 {
+    display: flex;
+}
+.box8 {
+    width: 1500px;
+    height: 100px;
+    background-color: red;
+}
+.box9 {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+.box10{
+    width: 1200px;
+    height: 75px;
+    padding-top: 25px;
+    background-color: green;
+}
+.box11{
+    width: 50px;
+    height: 50px;
+    background-color: red;
+    margin-left: 600px;
+}
+.box12{
+    width: 1200px;
+    height: 125px;
+    padding-top: 15px;
+    background-color: red;
+}
+.box13{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    margin-left: 600px;
+}
+.box1415 {
+    display: flex;
+}
+.box14 {
+    width: 100px;
+    
+    height: 100px;
+    background-color: red;
+}
+.box15 {
+    width: 1100px;
+    padding-top: 25px;
+    height: 75px;
+    background-color: blue;
+}
+.box16 {
+    width: 1100px;
+    height: 50px;
+    background-color: green;
+}
+.b8 {
+    width: 100px;
+    height: 30px;
+    background-color: yellow ;
+}
+.b9 {
+    width: 300px;
+    height: 30px;
+    background-color: green;
+}
+.b89 {
+    display: flex;
+}
+.bo9 {
+    display: flex;
+}
+.bo10 {
+    width: 300px;
+    height: 30px;
+    background-color: yellow;
+}
+.bo11 {
+    width: 10px;
+    height: 30px;
+    background-color: green;
+}
